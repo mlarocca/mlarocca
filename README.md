@@ -2,11 +2,12 @@
 ![Algorithms and data structures in action cover](./LaRocca-ADS-MEAP-low.png)
 
 I'm Marcello, a computer scientist/software engineer, globetrotter and author.
-I was born in the South of Italy, and lived in Messina, Brussels, Naples, Rome, Dublin, Zurich.
+
+I was born in the South of Italy, raised in Messina, studied in Catania, then lived in Brussels, Naples, Rome, Dublin, Zurich. (And a few more...)
 
 I also worked as a Full-stack engineer and Machine Learning engineer for Apple, Microsoft and Twitter.
  
-I recently published [_Algorithms and Data Structures_](https://www.manning.com/books/algorithms-and-data-structures-in-action), take a peek on [Manning's livebook](https://livebook.manning.com/book/algorithms-and-data-structures-in-action) or check out [this repository](https://github.com/mlarocca/AlgorithmsAndDataStructuresInAction) with the code.
+I recently published my first tech book, [_Algorithms and Data Structures_](https://www.manning.com/books/algorithms-and-data-structures-in-action), take a peek on [Manning's livebook](https://livebook.manning.com/book/algorithms-and-data-structures-in-action) or check out [this repository](https://github.com/mlarocca/AlgorithmsAndDataStructuresInAction) with the code.
 (All code is free to access)
 
 - 🔭 I’m working on
