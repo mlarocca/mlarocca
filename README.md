@@ -1,5 +1,5 @@
 ### Hi everyone 👋
-![Algorithms and data structures in action cover](./LaRocca-ADS-MEAP-low.png)
+![Algorithms and data structures in action cover](https://github.com/mlarocca/mlarocca/blob/master/LaRocca-ADS-MEAP-low.png)
 
 I'm Marcello, a computer scientist/software engineer, globetrotter and author.
 
