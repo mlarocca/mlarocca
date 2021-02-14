@@ -7,7 +7,7 @@ I was born in the South of Italy, raised in Messina, studied in Catania, then li
 
 I also worked as a Full-stack engineer and Machine Learning engineer for Apple, Microsoft and Twitter.
  
-I recently published my first tech book, [_Advanced Algorithms and Data Structures_](https://www.manning.com/books/advanced-algorithms-and-data-structures), take a peek on [Manning's livebook](https://livebook.manning.com/book/advcanced-algorithms-and-data-structures) or check out [this repository](https://github.com/mlarocca/AlgorithmsAndDataStructuresInAction) with the code.
+I recently published my first tech book, [_Advanced Algorithms and Data Structures_](https://www.manning.com/books/advanced-algorithms-and-data-structures), take a peek on [Manning's livebook](https://livebook.manning.com/book/advanced-algorithms-and-data-structures) or check out [this repository](https://github.com/mlarocca/AlgorithmsAndDataStructuresInAction) with the code.
 (All code is free to access)
 
 - 🔭 I’m working on
